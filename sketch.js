@@ -2,8 +2,8 @@
 var dogSprite, dogImage, happyDog, database, foodStock, foodS;
 var feedPet, addFood, fedTime, lastFed, foodObj;
 function preload(){
-  dogImage = loadImage("images/dogImg.png");
-  happyDog = loadImage("images/dogImg1.png");
+  dogImage = loadImage("dogImg.png");
+  happyDog = loadImage("dogImg1.png");
 }
 
 function setup(){
